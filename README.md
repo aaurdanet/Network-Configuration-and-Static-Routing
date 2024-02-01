@@ -9,4 +9,4 @@ Files:
 How to Explore:
 
     Open the 'Configuration of Static Routes.pkt' file in Cisco Packet Tracer.
-    Open the 'Configuration of Static Routes' file in Cisco Packet Tracer. Review network topology,   `     screenshots, and IP tables in the Word Document provided.
+    Open the 'Configuration of Static Routes' file in Cisco Packet Tracer. Review network topology, ` screenshots, and IP tables in the Word Document provided.
